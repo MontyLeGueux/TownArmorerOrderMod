@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\TownArmorerOrderMod\bin\Win64_Shipping_Client\TownArmorerOrderMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\TownArmorerOrderMod\bin\Win64_Shipping_Client\TownArmorerOrderMod.pdb
+C:\Users\Monty\source\repos\TownArmorerOrderMod\TownArmorerOrderMod\obj\Debug\TownArmorerOrderMod.csprojAssemblyReference.cache
+C:\Users\Monty\source\repos\TownArmorerOrderMod\TownArmorerOrderMod\obj\Debug\TownArmorerOrderMod.csproj.CoreCompileInputs.cache
+C:\Users\Monty\source\repos\TownArmorerOrderMod\TownArmorerOrderMod\obj\Debug\TownArmorerOrderMod.csproj.CopyComplete
+C:\Users\Monty\source\repos\TownArmorerOrderMod\TownArmorerOrderMod\obj\Debug\TownArmorerOrderMod.dll
+C:\Users\Monty\source\repos\TownArmorerOrderMod\TownArmorerOrderMod\obj\Debug\TownArmorerOrderMod.pdb
